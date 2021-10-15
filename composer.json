@@ -1,0 +1,15 @@
+{
+    "name": "topthinkphp/topthinkphp",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Topthinkphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coffee",
+            "email": "164589895@qq.com"
+        }
+    ],
+    "require": {}
+}
